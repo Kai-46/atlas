@@ -19,6 +19,9 @@ atlas -f "<image name='%s' x='%d' y='%d' width='%d' height='%d'/>" assetdir
 
 Run `atlas --help` for a list of all possible arguments.
 
+## Example
+The directory 'example/' contains an example for generating texture atlas. The expected outputs are
+'example/out.png' and 'example/out.txt'. I
 
 ## License
 This project is free software; you can redistribute it and/or modify it under
