@@ -15,8 +15,8 @@
 #define MAX_DIRS          128
 #define MIN_ATLAS_WIDTH   64
 #define MIN_ATLAS_HEIGHT  64
-#define MAX_ATLAS_WIDTH   4096
-#define MAX_ATLAS_HEIGHT  4096
+#define MAX_ATLAS_WIDTH   8192
+#define MAX_ATLAS_HEIGHT  8192
 #define MAX_FONT_SIZE     (1024 * 1024 * 16)
 
 #endif
